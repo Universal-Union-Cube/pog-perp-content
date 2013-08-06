@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/bike6/nodraw"
+	"$translucent"    "1"
+}

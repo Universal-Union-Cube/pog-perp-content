@@ -1,0 +1,12 @@
+
+"VertexLitGeneric"
+{
+	"$model" 	"1"
+	"$surfaceprop" "glass"	
+	"$basetexture" "models/weapons/holo_lens"
+	//"$additive" 1
+	"$Translucent" "1"
+	
+
+
+}

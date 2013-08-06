@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"\models\gokart\white\color006"
+	"$envmap" "env_cubemap"	
+	"$envmapmask" "models\gokart\color000_mask"
+	"$envmapcontrast" 1
+}

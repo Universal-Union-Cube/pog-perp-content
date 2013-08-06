@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tdmcars/zerrari250gt/grille"
+	"$blendtintbybasealpha" 1
+}
