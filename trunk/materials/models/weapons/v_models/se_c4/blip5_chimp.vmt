@@ -1,0 +1,8 @@
+vertexLitGeneric
+{
+	"$baseTexture" "models\weapons\v_models\se_c4\blip2_peacemaker"
+	"$envmap" "env_cubemap"	
+	"$envmapmask" "models\weapons\v_models\se_c4\blip3_ref"
+	"$bumpmap" "models\weapons\v_models\se_c4\normal"
+	"$Selfillum" "1"
+}

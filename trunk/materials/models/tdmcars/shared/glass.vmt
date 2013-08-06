@@ -1,0 +1,26 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tdmcars/shared/glass"
+	"$bumpmap"    "models/tdmcars/shared/glass_nm"
+	"$translucent" 1
+	"$halflambert" 1
+	"$phong" "1" 
+	"$phongboost" "13" 
+	"$phongfresnelranges" "[3 0 3]"
+
+
+   	 "$rimlight" "1"
+	"$rimlightexponent" "50"
+	"$rimlightboost" "0.01"
+	"$rimmask" "0"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[2 2 2]"
+	
+	!hdr?$envmaptint "[ 2 2 2 ]"
+	hdr?$envmaptint "[ 1 1 1 ]"
+	
+	"$normalmapalphaenvmapmask" 1
+	"$envmapFresnel" "1"
+
+}

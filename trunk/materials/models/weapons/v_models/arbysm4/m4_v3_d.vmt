@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\ArbysM4\m4_v3_diff"
+	"$bumpmap" "models\weapons\v_models\ArbysM4\m4_v3_n"
+	"$phongexponenttexture" "models\weapons\v_models\ArbysM4\m4_v3_s"
+
+	"$nocull"	"1"
+
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[.1 .1 .1]"
+	"$envmapcontrast" ".3"
+	
+	"$phong" 	"1"
+	"$phongexponent" 	"30"
+	"$phongboost"	 "3"
+	"$phongfresnelranges" "[0.2 0.2  0.2]"
+	//"$phongfresnelranges" "[0.25 0.75  0.3]"
+}

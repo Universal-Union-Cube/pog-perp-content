@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+
+{
+	"$baseTexture" 	"models/bike6/texb"
+	"$envmap" "env_cubemap"	
+	"$envmapmask" "models/bike6/texb_mask"
+	"$envmapcontrast" 1
+	"$surfaceprop" "metal"
+	"$selfillum" 1
+	"$model" 1
+}

@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\pk_lxt\invisiblebody"
+	
+	"$no_draw" "1"
+
+
+}
