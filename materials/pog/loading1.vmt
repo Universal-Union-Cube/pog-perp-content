@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "pog/loading1"
+	"$nolod" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}
